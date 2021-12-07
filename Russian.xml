@@ -1,1 +1,15 @@
-//code
+<Table>
+    <Meta Author="red.iguana"/>
+
+    <!-- Главное меню -->
+    <Translation Original="Player" Replace="Игрок"/>
+    <Translation Original="Horse" Replace="Конь"/>
+    <Translation Original="Weapon" Replace="Оружие"/>
+    <Translation Original="Vehicle" Replace="Транспорт"/>
+    <Translation Original="Teleport" Replace="Телепорт"/>
+    <Translation Original="Spawner" Replace="Spawner"/>
+    <Translation Original="World" Replace="Мир"/>
+    <Translation Original="Miscellaneous" Replace="Разное"/>
+    <Translation Original="Character Stat" Replace="Характеристики персонажа"/>
+    <Translation Original="Settings" Replace="Настройки"/>
+</Table>
