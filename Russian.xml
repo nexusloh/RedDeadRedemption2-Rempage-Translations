@@ -1,8 +1,8 @@
 <Table>
-    <Meta Author="red.iguana"/>
+	<Meta Author="red.iguana"/>
 
-    <!-- Главное меню -->
-    <Translation Original="Player" Replace="Игрок"/>
+	<!-- Главное меню -->
+	<Translation Original="Player" Replace="Игрок"/>
     <Translation Original="Horse" Replace="Конь"/>
     <Translation Original="Weapon" Replace="Оружие"/>
     <Translation Original="Vehicle" Replace="Транспорт"/>
@@ -12,4 +12,34 @@
     <Translation Original="Miscellaneous" Replace="Разное"/>
     <Translation Original="Character Stat" Replace="Характеристики персонажа"/>
     <Translation Original="Settings" Replace="Настройки"/>
+
+    <!-- Главное меню - Игрок -->
+    <!-- @TODO -->
+
+    <!-- Главное меню - Конь -->
+    <!-- @TODO -->
+
+    <!-- Главное меню - Оружие -->
+    <!-- @TODO -->
+
+    <!-- Главное меню - Транспорт -->
+    <!-- @TODO -->
+
+    <!-- Главное меню - Телепорт -->
+    <!-- @TODO -->
+
+    <!-- Главное меню - Spawner -->
+    <!-- @TODO -->
+
+    <!-- Главное меню - Мир -->
+    <!-- @TODO -->
+
+    <!-- Главное меню - Разное -->
+    <!-- @TODO -->
+
+    <!-- Главное меню - Характеристики персонажа -->
+    <!-- @TODO -->
+
+    <!-- Главное меню - Настройки -->
+    <!-- @TODO -->
 </Table>
