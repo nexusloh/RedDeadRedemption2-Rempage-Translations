@@ -1,19 +1,47 @@
 <Table>
     <Meta Author="red.iguana"/>
 
+    <!-- titles -->
+    <Translation Original="HOME" Replace="ГЛАВНАЯ"/>
+    <Translation Original="PLAYER" Replace="ИГРОК"/>
+    <Translation Original="HORSE" Replace="КОНЬ"/>
+    <Translation Original="WEAPONS" Replace="ОРУЖИЕ"/>
+    <Translation Original="VEHICLE" Replace="ТРАНСПОРТ"/>
+    <Translation Original="TELEPORT" Replace="ТЕЛЕПОРТ"/>
+    <Translation Original="SPAWNER" Replace="СОЗДАТЕЛЬ"/>
+    <Translation Original="WORLD" Replace="МИР"/>
+    <Translation Original="MISCELLANEOUS" Replace="РАЗНОЕ"/>
+    <Translation Original="CHARACTER STATS" Replace="ХАРАКТЕРИСТИКИ ПЕРСОНАЖА"/>
+    <Translation Original="SETTINGS" Replace="НАСТРОЙКИ"/>
+
     <!-- Главное меню -->
     <Translation Original="Player" Replace="Игрок"/>
     <Translation Original="Horse" Replace="Конь"/>
     <Translation Original="Weapon" Replace="Оружие"/>
     <Translation Original="Vehicle" Replace="Транспорт"/>
     <Translation Original="Teleport" Replace="Телепорт"/>
-    <Translation Original="Spawner" Replace="Spawner"/>
+    <Translation Original="Spawner" Replace="Создатель"/>
     <Translation Original="World" Replace="Мир"/>
     <Translation Original="Miscellaneous" Replace="Разное"/>
     <Translation Original="Character Stat" Replace="Характеристики персонажа"/>
     <Translation Original="Settings" Replace="Настройки"/>
 
+    <!-- Главное меню (Описания) -->
+    <Translation Original="Options that affect your player." Replace="Параметры, влияющие на вашего персонажа."/>
+	<Translation Original="Options that affect your horse." Replace="Параметры, влияющие на вашу лошадь"/>
+	<Translation Original="Customize all your weapons." Replace="Настройки всего оружия."/>
+	<Translation Original="Options that affect your vehicle." Replace="Опции, влияющие на ваш транспорт."/>
+	<Translation Original="Teleport everywhere." Replace="Телепорт повсюду"/>
+	<Translation Original="Spawn and manage objects." Replace="Создавать объекты и управлять ими"/>
+	<Translation Original="Control the environment." Replace="Контроль окружающей среды"/>
+	<Translation Original="Misc options." Replace="Разные опции"/>
+	<Translation Original="Edit your offline character stats." Replace="Редактор статистики своего офлайн персонажа"/>
+	<Translation Original="Customize the Trainer." Replace="Настройки трейнера"/>
+
     <!-- Главное меню - Игрок -->
+    <!-- @TODO -->
+
+    <!-- Главное меню - Игрок (Descriptions) -->
     <!-- @TODO -->
 
     <!-- Главное меню - Конь -->
