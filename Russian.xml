@@ -1,8 +1,8 @@
 <Table>
-	<Meta Author="red.iguana"/>
+    <Meta Author="red.iguana"/>
 
-	<!-- Главное меню -->
-	<Translation Original="Player" Replace="Игрок"/>
+    <!-- Главное меню -->
+    <Translation Original="Player" Replace="Игрок"/>
     <Translation Original="Horse" Replace="Конь"/>
     <Translation Original="Weapon" Replace="Оружие"/>
     <Translation Original="Vehicle" Replace="Транспорт"/>
